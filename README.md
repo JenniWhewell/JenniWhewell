@@ -14,9 +14,13 @@
 
 ### :woman_technologist: About Me :
 👀 About me: I am a Computer Science Lecturer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<br>
 🌱 What I am doing: I teach on a number of different modules ranging from Programming in C++ to Parallel and Concurrent Programming
+<br>
 💞️ Skillset: I am a trained Data Scientist skilled in R, C++, SQL, and Python
+<br>
 📫 Recent Projects Completed: Predicting Match Scores for Rugby World Cup 2023 using Machine Learning Techniques
+<br>
 🌱 Hobbies: In my spare time I enjoy playing paddle which is a mix of tennis and squash.
 
 ---
