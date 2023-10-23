@@ -7,7 +7,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -22,6 +22,7 @@
 📫 Recent Projects Completed: Predicting Match Scores for Rugby World Cup 2023 using Machine Learning Techniques
 <br>
 🌱 Hobbies: In my spare time I enjoy playing paddle which is a mix of tennis and squash.
+<br>
 
 ---
 
