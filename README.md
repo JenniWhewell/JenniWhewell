@@ -22,7 +22,6 @@
 📫 Recent Projects Completed: Predicting Match Scores for Rugby World Cup 2023 using Machine Learning Techniques
 <br>
 🌱 Hobbies: In my spare time I enjoy playing paddle which is a mix of tennis and squash.
-<br>
 
 ---
 
