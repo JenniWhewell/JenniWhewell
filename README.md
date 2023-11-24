@@ -13,7 +13,7 @@
 ---
 
 ### :woman_technologist: About Me :
-👀 About me: I am a Computer Science Lecturer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+👀 About me: I am a Computer Science Lecturer!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <br>
 🌱 What I am doing: I teach on a number of different modules ranging from Programming in C++ to Parallel and Concurrent Programming
 <br>
